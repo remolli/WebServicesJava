@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9276b4b5-4641-46ad-8054-d7c3f409fae9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulajpa/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulajpa/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulajpa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulajpa/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulajpa/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulajpa/JavaWebServices.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulajpa/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulajpa/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulajpamaven/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulajpamaven/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +13,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TA69gbh6MT1ZwdoL5H3iTKnbdv" />
   <component name="ProjectViewState">
@@ -29,9 +26,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Win10/Desktop/Programação/GITHUB/JavaWebServices/aulajpamaven/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10\Desktop\Programação\GITHUB\JavaWebServices\aulajpamaven\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
